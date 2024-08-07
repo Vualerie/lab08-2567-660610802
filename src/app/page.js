@@ -17,7 +17,7 @@ export default function Home() {
         <Task {...tasks[1]} />
         <Task {...tasks[2]} />
       </div>
-      <Footer year = "2024" fullName = "Paisit Lerdananpipat" studentId = "660612155"/>
+      <Footer year = "2024" fullName = "Sirawit Seetong" studentId = "660610802"/>
     </div>
   );
 }
